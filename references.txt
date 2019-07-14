@@ -1,0 +1,3 @@
+https://realpython.com/python-sockets/
+https://www.amazon.co.uk/dp/0133594149/
+https://tools.ietf.org/html/rfc7231
